@@ -7,7 +7,7 @@ sections:
       Style reserve te brinda un sistema de agendamiento de citas, visibilidad
       en internet y mucho más.
     actions:
-      - label: Contact Me
+      - label: Contactanos
         url: /contact
         style: primary
     image: /images/Barberia.png
