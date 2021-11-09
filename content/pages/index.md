@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Posiciona tu barbería digitalmente
-    subtitle: Style reserve te brinda
+    subtitle: >-
+      Style reserve te brinda un sistema de agendamiento de citas, visibilidad
+      en internet y mucho más.
     actions:
       - label: Contact Me
         url: /contact
