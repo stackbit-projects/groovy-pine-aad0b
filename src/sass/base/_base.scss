@@ -7,7 +7,7 @@ html {
 
 body {
 	background-color: black;
-	color: $color-body-text;
+	color: black;
 	line-height: 1.66667;
 	text-rendering: optimizeLegibility;
 	@include font-smooth();
