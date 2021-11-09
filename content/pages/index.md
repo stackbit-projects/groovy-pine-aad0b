@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Brinda un posicionamiento digital a tu barbería
+    title: Posiciona tu barbería digitalmente
     subtitle: Style reserve te brinda
     actions:
       - label: Contact Me
