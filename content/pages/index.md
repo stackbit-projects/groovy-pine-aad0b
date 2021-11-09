@@ -21,7 +21,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    background_image: /images/Barberia-37ef07e8.png
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
