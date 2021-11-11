@@ -55,13 +55,7 @@ sections:
           Posiciona tu barbería a través de Google Maps, de esta manera cuando
           alguien busque barberías cercanas en Google, la tuya saldrá antes que
           todas las demás.
-        actions:
-          - label: See Past Work
-            url: /fa
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-3.svg
         image_alt: Feature 3 illustration
         media_position: right
