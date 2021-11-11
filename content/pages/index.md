@@ -46,7 +46,7 @@ sections:
           el gusto de conocerte.
         actions:
           - label: Learn More
-            url: /about
+            url: /abou
             style: secondary
             has_icon: true
             icon: arrow-right
