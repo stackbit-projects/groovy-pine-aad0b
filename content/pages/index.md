@@ -32,13 +32,7 @@ sections:
           Desde Style Reserve, tus clientes podrán agendar una cita contigo
           automáticamente, revisando tus horarios disponibles sin tener que
           contactarte directamente.
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
