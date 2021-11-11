@@ -27,7 +27,7 @@ sections:
     subtitle: ¿Por qué Style Reserve?
     features:
       - title: Agendamiento de citas
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Lleva un control automatizado de tus citas
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
