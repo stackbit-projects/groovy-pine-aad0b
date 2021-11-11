@@ -45,7 +45,7 @@ sections:
           brindar una mayor confianza para aquellos clientes que no han tenido
           el gusto de conocerte.
         actions: []
-        image: images/feature-2.svg
+        image: /images/feature-3.svg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
