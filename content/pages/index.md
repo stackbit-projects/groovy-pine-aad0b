@@ -39,10 +39,11 @@ sections:
         media_width: sixty
       - title: Feedback
         subtitle: Adquiere retroalimentación de tus clientes.
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          A través de Style Reserve, tus clientes podrán dejar sus reseñas
+          acerca de tus servicios, para que mejores como barbero, además de
+          brindar una mayor confianza para aquellos clientes que no han tenido
+          el gusto de conocerte.
         actions:
           - label: Learn More
             url: /about
