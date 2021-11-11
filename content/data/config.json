@@ -21,7 +21,7 @@
         "has_secondary_nav": false
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "/images/LogoSample_ByTailorBrands.jpg",
         "logo_alt": "Personal logo",
         "has_primary_nav": true,
         "primary_nav_links": [
