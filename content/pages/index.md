@@ -8,7 +8,7 @@ sections:
       en internet y mucho más.
     actions:
       - label: Contactanos
-        url: 'https://api.whatsapp.com/send?phone=XXXXXXXXXXX'
+        url: 'https://api.whatsapp.com/send?phone=+57 300 6780898'
         style: primary
     image: /images/Barberia.png
     image_alt: A smiling woman
