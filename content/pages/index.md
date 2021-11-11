@@ -26,7 +26,7 @@ sections:
     title: Nuestros servicios
     subtitle: ¿Por qué Style Reserve?
     features:
-      - title: Content Creation
+      - title: Agendamiento de citas
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
