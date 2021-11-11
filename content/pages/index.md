@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 8
     background_image: /images/Barberia-ccd94ceb.png
   - type: features_section
-    title: My services
+    title: Nuestros servicios
     subtitle: ¿Por qué Style Reserve?
     features:
       - title: Content Creation
