@@ -24,7 +24,7 @@
             },
             {
                 "label": "Contact me",
-                "url": "/contact",
+                "url": "https://api.whatsapp.com/send?phone=+573006780898",
                 "style": "link"
             }
         ],
