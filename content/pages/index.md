@@ -51,10 +51,10 @@ sections:
         media_width: sixty
       - title: Posicionamiento digital
         subtitle: Deja que conozcan tu barbería.
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Posiciona tu barbería a través de Google Maps, de esta manera cuando
+          alguien busque barberías cercanas en Google, la tuya saldrá antes que
+          todas las demás.
         actions:
           - label: See Past Work
             url: /faq
