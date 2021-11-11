@@ -56,7 +56,7 @@ sections:
           alguien busque barberías cercanas en Google, la tuya saldrá antes que
           todas las demás.
         actions: []
-        image: images/feature-3.svg
+        image: /images/feature-2.svg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
