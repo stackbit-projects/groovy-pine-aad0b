@@ -44,13 +44,7 @@ sections:
           acerca de tus servicios, para que mejores como barbero, además de
           brindar una mayor confianza para aquellos clientes que no han tenido
           el gusto de conocerte.
-        actions:
-          - label: Learn More
-            url: /abou
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
         media_position: right
