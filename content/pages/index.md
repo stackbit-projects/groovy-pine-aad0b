@@ -28,10 +28,10 @@ sections:
     features:
       - title: Agendamiento de citas
         subtitle: Lleva un control automatizado de tus citas
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Desde Style Reserve, tus clientes podrán agendar una cita contigo
+          automáticamente, revisando tus horarios disponibles sin tener que
+          contactarte directamente.
         actions:
           - label: See Writing Samples
             url: /faq
