@@ -67,8 +67,7 @@ sections:
     title: Suscripción
     subtitle: Lleva tu barbería al siguiente nivel.
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
