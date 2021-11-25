@@ -11,7 +11,7 @@ sections:
         url: 'https://api.whatsapp.com/send?phone=+573054834106'
         style: secondary
         has_icon: true
-        icon: facebook
+        icon: instagram
     image: /images/Barberia.png
     image_alt: A smiling woman
     media_position: right
