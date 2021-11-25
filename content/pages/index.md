@@ -12,6 +12,7 @@ sections:
         style: secondary
         has_icon: true
         icon: instagram
+        icon_position: right
     image: /images/Barberia.png
     image_alt: A smiling woman
     media_position: right
