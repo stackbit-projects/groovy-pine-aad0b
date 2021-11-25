@@ -33,7 +33,7 @@ sections:
           automáticamente, revisando tus horarios disponibles sin tener que
           contactarte directamente.
         actions: []
-        image: /images/feature-1.svg
+        image: /images/events.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
