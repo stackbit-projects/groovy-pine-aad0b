@@ -64,7 +64,7 @@ sections:
     align: center
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Suscripción
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
