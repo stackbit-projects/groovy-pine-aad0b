@@ -64,7 +64,7 @@ sections:
     align: center
     background_color: none
   - section_id: lorem-ipsum
-    title: Suscripción
+    title: Suscribete
     subtitle: Lleva tu barbería al siguiente nivel.
     features:
       - actions: []
