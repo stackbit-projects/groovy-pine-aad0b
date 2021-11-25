@@ -10,7 +10,7 @@ sections:
       - label: Contactanos
         url: 'https://api.whatsapp.com/send?phone=+573054834106'
         style: secondary
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
     image: /images/Barberia.png
